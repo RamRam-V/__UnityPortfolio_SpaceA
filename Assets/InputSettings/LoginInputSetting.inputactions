@@ -1,0 +1,74 @@
+{
+    "name": "LoginInputSetting",
+    "maps": [
+        {
+            "name": "LoginInput",
+            "id": "cd77f661-9e46-4a54-b58d-caecaab8711c",
+            "actions": [
+                {
+                    "name": "Backspace",
+                    "type": "Button",
+                    "id": "9f82eb12-3f50-4217-b542-4f5ce8d97e23",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Tab",
+                    "type": "Button",
+                    "id": "9a636be0-fc72-4930-83fb-f7a319eecb82",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Enter",
+                    "type": "Button",
+                    "id": "d3aa3575-83c3-44b8-b310-51e1964a6659",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "03734a36-0264-4e5b-9b49-c48a45d6d6ae",
+                    "path": "<Keyboard>/backspace",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Backspace",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0cc3c7c5-8292-4937-a8af-4d718f354a84",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b36f505b-63d5-4c54-84f6-3e6f3fe7b01f",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Enter",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

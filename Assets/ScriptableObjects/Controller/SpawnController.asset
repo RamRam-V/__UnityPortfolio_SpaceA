@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3aac319a92403045aaafd4e74bebd93, type: 3}
+  m_Name: SpawnController
+  m_EditorClassIdentifier: 
+  localCharacterPrefabData:
+  - type: 0
+    gameObject: {fileID: 12623384353995928, guid: 1ef06789438124a4880f3d32380a4ac9,
+      type: 3}
+  - type: 1
+    gameObject: {fileID: 7090122641375555842, guid: 59b3b58f2c55a6540a6b66dae3924bc3,
+      type: 3}
+  - type: 2
+    gameObject: {fileID: 8007598815066970693, guid: 94fdf54fc0b2eeb448e4afc9e9234de3,
+      type: 3}
+  onlineCharacterPrefabData:
+  - type: 0
+    gameObject: {fileID: 12623384353995928, guid: 8852c5423405b8b4bb9790b499843f16,
+      type: 3}
+  - type: 1
+    gameObject: {fileID: 7090122641375555842, guid: 1922ef59376103745a7d42dccc41d844,
+      type: 3}
+  - type: 2
+    gameObject: {fileID: 8007598815066970693, guid: d611c7d8beeaa984b95d13466ca6ee8e,
+      type: 3}

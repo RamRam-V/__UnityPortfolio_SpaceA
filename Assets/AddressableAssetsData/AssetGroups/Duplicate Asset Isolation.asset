@@ -1,0 +1,1304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 48d43c3cb657e96458ff410235d71d28
+  m_SerializeEntries:
+  - m_GUID: e50a34c01331b86419e1ec621421800e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_05.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ea225129c07fc14f936f09d9b06f3f3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Billboard_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cb44352831fc1a439a0ecff245686a4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0268d7d242e42b2468e56bb3a0b7e095
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Posters_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d8a91e2595f08b4f8c9f6121efc8ee1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/FX_Mats/FX_Leaves_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b6aa363260a1734aa2e532309ab772d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bc33bb4ffd9c374b986e7fd841b7b51
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_03_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c98b92059f152cd48a41a6ce170a202c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66bd2d0519f7e03458844550e8c312fd
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_03_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35ccf395352bf8a48b76f552b71bbb2a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_01_Alt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 346a4495d8ae68c468dc4eb63dccb936
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_02_Alt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07015497a2291f44d9d37c86451773b0
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_03_Alt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94d852a7748a347489661febea5eafc6
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/FS002_Day_Cubemap.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aab7d580f63c784499c8ce03088a79c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_04_Alt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21228be852062f6468f7005479d86e68
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8e6daf9d14bd59419ec097ac6c3b4f4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_02_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b4f6a2aeb425f741aacea61d0c0fad1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_02_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4a315b9a7f4ad4380483106289c0ee
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab3995dd09d3fa540afe335b2d54eb28
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Floor_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f898770ef1563264eae3ed7efeb66b1b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Parallax/Parallax_Full_05_Alt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac8aa4cfe86a7e94085dd90597db08cd
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Holograms/Hologram_Basic_02_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0831e2c0df177bb40960015002676134
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_45_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb0f3651aff91944c98ee9c1d79c7296
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Base_45_Floor_Combined_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff3ab510448631448f85c955d47df37
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Pillar_Straight_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d85f43031ec93fa498b298050067050b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Trash_Bin_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c19a6ee3e3799a04d81111f0c7635218
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Manholes_06_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 514a7875828c009499356d678221b5f4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_45_03_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 540b2af69141c774a9bec3c210863771
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/SM_Prop_Holo_Planter_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfcc9cb7c9f0c1b42b3937a42fbe48bd
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Holo_Planter_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 086a4db77be499b468787eb467b4a791
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Straight_02_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ace591584a8fe45459adcb3ed015e5f6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Stool_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0435a684c5275643afe18fb68643971
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Antenna_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2d47cd852a47394784cd66580a34bdc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Holo_Planter_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f180969ac9d2ef4baf23b415fc053a4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Trash_Bin_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f50833a4539dba45b82bde58b5cb10c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Prop_Bench_Seat_02_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e460967a9fc5c8e4fbdbe3dea3948631
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Rail_45_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e886ae8ab9df2c04495c6dc818e292cf
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/FX_Leaf_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3781e09af12cdff4880d7b749c295844
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Pillar_45_Corner_Outer_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96c2e13d4e38be543bb08f7289de4dc7
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Pillar_Corner_Outer_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be92cfd476684044a3c3b28e9902d8a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Pillar_45_Corner_Inner_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9df26f558a6014f8a91cc09537b00f
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Holo_Planter_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb31078ff837b014b88d9adce74326f1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Prop_Bench_Seat_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6604f50e4664be419a752b70e986a46
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 879cfe80f36674e4f9206c6c71a5943a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/FX/Leaf_Pixel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fc1fe31c90b5b145ac2170c85978ba3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Building_Sheet_01_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ad190412b7214d4dbac8b94d41040ab
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_front.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b0f7451551b7054d88adc3dd989ff82
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_02_B_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abf4bc711532ce9418b431ecc541c6b5
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_04_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31993c12d00def94f877434602256422
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_01_A_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49488522764f02748bae0cb0e5083004
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Building_Sheet_04_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e20420826f8726e4db8ee7a7bee048e1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_02_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c88082f8ee85e43906e07025f0b0ca
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_right.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c70da29bc83204daf499330d029efc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/PolygonCyberCity_Texture_A_01_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ceb380b2cee94b64ca5f68c23e9cc957
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 981e0e23fe0c3384c931d0b547e49cc6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Noise_Hard_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb7ec839ea98d54398069dcf788bc77
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_01_Alpha.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34abfb045970c664f920b33ab0a6268d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f51f90147d7350747957e1c406e8d741
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_up.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a451e81424298fc4b87bdb35a0592adb
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_04_Alpha.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffec5d4432cab84498b86dcc83ad32bb
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Building_Sheet_02_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 933532a4fcc9baf4fa0491de14d08ed7
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99d18ea54edb59c499e479e61068b8da
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Posters_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9556606a5f42464fa7dd78d624dc180
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Shaders/SyntyStudios_Hologram_01.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a33a166317493947a7be330dcc78a05
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Shaders/SyntyStudios_Parallax_Full.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bf6d0a626cdae24bb667c344ac08fe0
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_03_A_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96db0ef7541e12947baea7ceea66d512
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_06_D.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa85110885592d344a3dad70e606e886
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b198d2d8a34741b4dbf5cac7c356a5dc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Floor_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e528ff89a88d6141a6223089021d96a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Floor_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ad3aa49468084c4b9f29656b5c2aecd
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Billboard_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f698a95ab215742a622c214015079e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_01_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20556ff95cea2fa44a44cd07980dae85
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_down.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d29d403a371c1524a910494952f0c415
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_02_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0406db5a14f94604a8c57ccfbc9f3b46
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9fb176aceab6594e924bbae9de1b737
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_03_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92ff89a451dfcc46aba000758a49a3f
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/Wall_02_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 249b16ba61af9c046bb4adae10ae71af
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cafdfbade3d8834aaa5b78d0d1ee08a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_03_B_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa73a3ca062edec4e9db7652a90ed5ca
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_03_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da82ae5b43293c448b4ca057f8baeff8
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Gradient_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9a386eb63853164db9186b026d55a5e
+    m_Address: Assets/_DownloadedAssets/Fantasy Skybox FREE/Cubemaps/FS002/Images/FS002_Day_Cubemap_left.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47c3209cc3c135a429e16657cb47a61c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_03_Alpha.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a1590ac6a7ef9046a603b38f7f1a2e4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Building_Sheet_03_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62031f7df88a7ac4db5aa28e74ff1e35
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Grunge_Triplanar.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6387fe8d8b746ae4f837d83472acd2d3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_13_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7de4b1ed5a03a0b4fa8de2a1ccff8dbe
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Floor_02_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d86fe0e2ed0c9746976a103a038135d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_02_Alpha.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a28552de79d74f64398402b59a7befc8
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Background/Building_Sheet_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a8a7f7f5b6176048a9eda7593eef05a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_02_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e335017ad71d54fbb10842863188ae
+    m_Address: Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6e9a19c3678ded42a3bc431ebef7dbd
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6fbef32a45e3e64e91b571ee3de6721
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Floor_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cb71b4249cf3ea4b9913f92ffeb21b2
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_01_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb5ec2729c63dad48b4c5876fda025ae
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_04_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a9940035e567784aa5494580f3e3555
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_19.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae438d73275a5d444bdda5bebb4d8a97
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_03_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6265fb34b8f30604db4769f2a9a4cfb5
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Junk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3851d3b44cf8c52418ff995d558be39b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Billboard_02_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3be3235692afe840a6e53aa9aebc450
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Floor_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 740c7d6587d07e44aa9e4df46b1dfa96
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/FX_Mats/FX_Sparkle.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 197a44753d8bfbc46b430dde259d3a7a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_Transparent_Shiny.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 536502f58908c854a82b2923c2733e5a
+    m_Address: Assets/Materials/New Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5341c6960dffc584baae13e35de0acd7
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_01_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64dd97e7d29f5e44480644943d038312
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_01_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b91bc3892c89e54fb9cf2bdac3bc6ef
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_02_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec5ff0989bce9e245b8e86799f4f22d2
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9222d85aa4b3443850cb75f491ef9d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_01_D.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cbc0839b55816c488b584bcd839091d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_04_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98850479906b3db4592016d2b1548f5a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_02_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06f6768abda8ffe4e97cc5d0b6da4d8c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_01_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681144ea563eada47839136452aa9e41
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_11_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0793abea059507e44bcc0080ec91c308
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Holograms/Hologram_Signs.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf0dd74b96e914d49a04dcdcc03ff128
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_04_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3dc6bb6fb3507479dc33322c8ecb3b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_Transparent_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0cce0cbd151e57478fe2685522b044c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_09_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed14598dd27df89469f1113cbe7c841b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/PolygonCyberCity_02_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b25909dedbc5ba429ecda20eb4bf75c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_01_E.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01ac5edd0fd737747b906b3f8b8a0729
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Triplanar_Buildings/Floor_02_Triplanar.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cf8d7ae14dc37241a9101fd858265c2
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Holograms/Hologram_Text.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84d3b8fe746ad694783d474ede6a5899
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Triplanar_Buildings/Wall_11_A_Triplanar.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34d236ffa5303cc4a9a7b53a02acfe05
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/FX_Mats/FX_Circle_Unlit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a2d2f50cad1f9742a3d1f3111ec0da1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Door_Single_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd7a13905f3fd5849839e95137e5afcf
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Robot_Posed_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53caf6d199c732a4494258739507ec9b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Base_Wall_Door_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97c589f1face18844b00e53c7bf0110b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Cardboard_Box_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 557a554337a3aae4b82241f6e0eefa55
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_05_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e770c536be94f14b80db12f5e1c09e9
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greeble_Wall_02_Convex
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09c60ec34c9f89146b684566e11e256a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Railing_Straight_03_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 058f02e34f1058c4eb71f0af9a61b8ee
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_06_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf9eb94395d9f444b46c72f7ccbd402
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_16_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37bbb30559f93a449bbe45dda0b8b72f
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Bld_Door_Single_Large_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95db7705131790640bb37465183d6f2c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/SM_Prop_Cardboard_Box_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e28a2255a84c04844b90561e5902cb1e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Manholes_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 703883a5246861747b13f16f61e33df4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Cardboard_Box_05_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a0de0c59873ebf44a18a5580a1f8ad7
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Desk_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f3cd8d513a6c3148933b2348dcdb018
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greeble_Wall_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5596d8264abee98478dbb7c18bc14f5a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Monitor_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af734b76c7740e246bc1c6bd8a61c067
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_10_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c05d9b6381e9514fb8ccf8aaf22f5cb
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Hologram_Stand_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c5c70e6107c23b45aba1d0bb712c537
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_19_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63944f77487644e4d9a6f0e396cb377a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Bld_Door_Single_Large_01_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ddb7348e4f724a42b37c1ed46212cfa
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Street_Console_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49acb3c89794c924eb9da2544e665329
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Door_Single_Large_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9396a191caa293438bd69ccc7428dd6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Charge_Station_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d8c1f693fa5adf448854b9478b0789a
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Junk_Can_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf104aaa3cdc4c242a5bdb5625915e59
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Greebles_20_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b71c5ba3355b73488ecc3e47a476481
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Junk_Can_03_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b630b02bb6d739e4f86accb498c34bbc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Vending_Machine_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9fa418c0f91c7e40938669792b1472d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Base_45_Wall_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b23d68cbaa615740a550ad0f068c268
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Electrical_Box_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205f009c6f7c9f24d8a2526e6e020c5e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Bin_Small_01_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 656e690da20564a4b86960b1d1828b4b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/SM_Env_Junk_Pile_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85bde3ade2576b8419d3c3530e55c141
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Crate_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47e18dedb94f4a9459e23c4fe18e62af
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Crate_02_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce87850e8c6a5f645b6ad7b904986e68
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/SM_Prop_Charge_Station_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dd2669e696e2ff429fbe7acb9e19898
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Crate_09_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 733c4d7f3491db144a37a1335f2c8e54
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Street_light_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ac44eaf90d750c4f809257b71c9a6f3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Antenna_02_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d877960b405a53499152eb4770b8388
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_11_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b9ed7b0cecaf174e883a7bab9cc0125
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Trash_04_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c19e8d04975fb94eaa8dd9449596de4
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Triplanar/Rocks_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62e87ad08a1afa642830420bf8e0dd4d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Shaders/SyntyStudios_PolygonCyberCity_Triplanar_01.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a2623e0f4c7ddd40a1958df4df3a1cc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_11_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f333e0336a6e54bad50e8d1ed26f02
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Masks/HoloLines_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14bc47516e80d8f4fa54ae24744d1ce1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_01_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 250a83d1eb2ff1f4cbc93fb454a7ec9b
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_04_A_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5add5d121e243404cb47a446165f0dd6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_09_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 650dd9526735d5b46b79224bc6e94025
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e00da8210710dc40ba43e47e6ebab38
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_01_C_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14ebd7a27a3914778a89ba81abb3d498
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Heart.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93e149d2cb523594399decc5ea3ffcb3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/Wall_01_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce41a4833c5caaf4db94d153dff12c9f
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Signs_01.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bc97e3d82826148828ef86b1d10677
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_01_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b56086448e28cf443bfb774b4d56bf0d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Floor_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0ae4d94c0a8e1249bd5b47cac8b6b2e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_01_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d43f7f059f84e6c45a59918bfd96f358
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Floor_03_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ab80315b689f3546a426ea478e9252d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/Wall_11_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4de800c5049803a4d8ebafd5dfefcb57
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/FX/Circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd6be0e5b15fad5408433161233f2654
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_01_B_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a60a346b9283b746b7f021699a6c1de
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_19_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 165d1b46fc4cae940ab7f17caea34ced
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Triplanar/Rust.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59d380560bda2cb40b096c0d8d592234
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_03_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 395459d68f380d24496ffdae799ecc40
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_04_C_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0dd37377303e534ebc1386ba8135728
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/FX/Sparkle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54534e3705e8612429010a48d3325c98
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Window_Gradient.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 212dd7976a3f39244923851c5210cefa
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Trash_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 351dd1e77ce552e488ae02016fe061c7
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_01_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f664138e19984f458fbd304d44ce363
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_04_B_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8020a9887d44c0a4cb8dd18b2eba3b61
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_01_D.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79da20a8d0758f548aa1af53d5fd7b3c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_02_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 593fb4a8c6a316445b98613a51a149b7
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Floor_01_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36978f291d618c64ebd13b241a5c6130
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbccb7a932ec07c4bbddd68c029e6895
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_03_C_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 512222aae8b0918478e03b5009433a9d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/Wall_09_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54c0383bc74e5b945b4b4e07a2d122af
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Billboard_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42599c3b8a92a2b42bafc37ee6c37592
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_01_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca16c53c1ed705f42a1ef872db4c06b5
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Misc/Grunge_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da863a4c4450ce94fa40c9a4cbb15900
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_09_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9e1e0e96db14642bfa6922640623d6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Triplanar/Metal_Rust.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd88a15ea6ea4ab4e89e62157e3e74ff
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_01_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38cc128eb735f5047b9cc7ac6befa286
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_02_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff5bc8ee918d3540a3c8546e42f50fc
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_04_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8d91e8e98605da4f898e3a226ac88e9
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_04_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9142b5f81887014cb38a03ea43d7930
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Emissive/PolygonCyberCity_02_C_Emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e26c08ff2d7aa64bb204b24fdfadff6
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_02_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7863b48f9e88d9143bf10004df817ad8
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Alts/PolygonCyberCity_Texture_04_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 530df87dd522d457791fe57157d9eeb6
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Fonts/Roboto/Roboto-Regular
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f35106e76c6c40fa9c9e04a7cd7dca6
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Sounds/Button-5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dd70ec2220ae427b9b92a2d02dca9f0
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Sprites/Shapes/Square/Square.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68ffd20999991484da3419d1cf3e9248
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Sprites/Shapes/Rounded/Rounded.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e6db2ebdc24f95958faec2be5558d6
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40db3173a05ae3242b1c182a09b0a183
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85afe8a7fe1ab84988718573a691a39
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Mesh/Base_mesh.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16114d403eabb53438de032c6f0d1deb
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98f277b0c8055e143b2fcf058d3c27dc
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Jump--Jump.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c033631149b9c541bcf155cd94cccba
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12e52e465ed793a4d801955e9f964a82
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325a26d62b61fa94cb3c97c435efebc5
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N_Land.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8269a9f8cf495034c817722ac21f309f
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 063aa479676c4084ebf187660ca0a7b8
+    m_Address: Assets/_DownloadedAssets/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2de0fff984303bb4e998ca09521805b7
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Materials/M_Body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46247daf486113b4aa944252ef01b0d0
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Materials/M_Hair.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aecde006fda1824aa6c3a61be8cbc12
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Texture/T_Body_Albedo.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98d1c501791a1ed43a2042aeb03367d4
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Materials/M_Clothes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 107cebb91faa1de49b212bb4ed85e89b
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Texture/T_Hair_Albedo.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b2722e6748e8e74fa3b34dd1f7e2fe7
+    m_Address: Assets/_DownloadedAssets/AnimeSciFiPack/EcoA76/Texture/T_Clothes_Albedo.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad663bc1d0022374d8d3b0ca01460233
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_20_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d14e202d40fc8c499859ffdb2a5d4d3
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_01_F.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 815c7952d2e3ccd44ae5e2d2091b76ac
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Building/Wall_20_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe1932b6fe6275f4dbba4403b667392c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Alts/Triplanar/PolygonCyberCity_Triplanar_04_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4778e1f8d5e004ad79db81f688da7d68
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Fonts/Roboto/Roboto-Medium
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df292f5c738a9a747923316f85e2639d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_01_D.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20d8887ec62ff034b98e3600ba9d1c34
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Materials/Misc/Glass_01_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 294459e0b7245484aadf76db6768d847
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d2ae43316426d468f4933965555f83
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Collision/SM_Bld_Base_Wall_Door_Double_01_Collision.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 338639c3870d0c441bb5e473f35f9739
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3258d24859ff8047b7d662211a90dc0
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34ef3455daf226440961258f363f0f6d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Vending_Machine_02_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dd1aac5fdd68c74b94d5dfe166533ed
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3da9ffba503604744a8714d007303930
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e29726d267cf934cb89b2139c1a2da0
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88e9ee5e77e1e69449a2ce5324882e37
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Models/Convex/SM_Prop_Drone_04_Convex
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06839a9e285134212915dda98b0834fa
+    m_Address: Assets/_DownloadedAssets/GUIPack-Clean&Minimalist/Demo/Sprites/Shapes/Semi
+      Rounded/Semi Rounded.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f2b5a410db048b4cbcfce12afe69ef1
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_12_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e8e745446cacd14a9edfa5e51af0336
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Normals/Wall_20_Normals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d4d1017b0752b34c9f6cc464a28ea2d
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_20_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4106e659c438f614e9cf88d997af9f2e
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_11_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34033f3a7f3b9b945a5531c40303345c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Triplanar/Rust_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5400e2b136c1314db98610cacadf4cd
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_20_D.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e323cde1438754c8ea8efda410366f
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_01_F.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06b94ecf82aea39409a680cdb6a53d9c
+    m_Address: Assets/_DownloadedAssets/PolygonCyberCity/Textures/Building/Wall_20_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c946062b341474442ba4c08b5e64cd18, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a34878eab6f13c34faf22d37c15360ce, type: 2}
+    - {fileID: 11400000, guid: 988d348144b7ba743b3687e0c4549fd3, type: 2}

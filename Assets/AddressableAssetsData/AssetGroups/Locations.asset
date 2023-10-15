@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Locations
+  m_EditorClassIdentifier: 
+  m_GroupName: Locations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8c88adaad6cd3a246b43813702733aca
+  m_SerializeEntries:
+  - m_GUID: aeda8c795a0bfa747a66f617e3c2aec4
+    m_Address: Assets/_Scenes/SpaceA.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2a57cce41df5f24a9f623e176aa0701
+    m_Address: Assets/_Scenes/SpeechRoom.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45584beeb279826488b536bdab83c8ee
+    m_Address: Assets/_Scenes/ManagerScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56335275c928fc0409d3d8aaddf312a6
+    m_Address: Assets/_Scenes/LoginScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fb9f6c6ed203754c9c0062ed7dda37e
+    m_Address: Assets/_Scenes/LoadingScreenScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cdd4ead4f32d9641beacafd527b9829
+    m_Address: Assets/_Scenes/CharacterCreateScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c946062b341474442ba4c08b5e64cd18, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 54e64f9e10d3292499d4bfaca7cd2d93, type: 2}
+    - {fileID: 11400000, guid: 9a06179da62593440ac50844191380e2, type: 2}
